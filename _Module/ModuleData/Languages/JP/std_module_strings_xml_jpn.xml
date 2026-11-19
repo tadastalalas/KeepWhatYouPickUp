@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+	<tags>
+		<tag language="日本語" />
+	</tags>
+	<strings>
+		<string id="KWYPU_c8WfQ0r" text="英雄のスキルを超える要求値の拾った武器は、装備されずに部隊のインベントリに入ります。" />
+		<string id="KWYPU_Rk5wD2g" text="壊れた盾と使い切った投擲武器を失う" />
+		<string id="KWYPU_p9Ns4Ty" text="戦闘で壊れた盾や使い切った投擲武器・弾薬はミッション後に失われます。オフ = バニラと同じく戻ってきます。" />
+		<string id="KWYPU_aN3kT7v" text="Keep What You Pick Up" />
+		<string id="KWYPU_G1hQm4s" text="一般" />
+		<string id="KWYPU_D8rVx2p" text="落とした物" />
+		<string id="KWYPU_bZ6wL0e" text="技術設定" />
+		<string id="KWYPU_E5tYu9c" text="有効" />
+		<string id="KWYPU_S2jKf6n" text="適用対象" />
+		<string id="KWYPU_h4PzR1m" text="ミッション後に拾った武器を保持する対象。" />
+		<string id="KWYPU_o7Xc3Wd" text="プレイヤーのみ" />
+		<string id="KWYPU_C9vBn5q" text="プレイヤー + プレイヤー氏族の英雄" />
+		<string id="KWYPU_A1lMs8g" text="プレイヤー + すべての英雄" />
+		<string id="KWYPU_k6Ue2Hy" text="スキル要件を適用" />
+		<string id="KWYPU_r3Fo9Jt" text="使用できないアイテムを赤で強調" />
+		<string id="KWYPU_w8Gi1Za" text="プレイヤーのスキルが足りないアイテムは緑ではなく赤い輪郭で表示されます。" />
+		<string id="KWYPU_B4yNd7x" text="使用できないアイテムを拾えない" />
+		<string id="KWYPU_u2Qe5Ks" text="英雄のスキルより高い要求値のアイテムはプレイヤーが拾えません。" />
+		<string id="KWYPU_P6mWa3r" text="シーン内の落とした物を保持" />
+		<string id="KWYPU_f9Tc0Lh" text="プレイヤーが落とした物はミッション中ずっと残り、集落のシーンでは次回の訪問まで保持されます。" />
+		<string id="KWYPU_T7sJb4o" text="装備の盗難確率" />
+		<string id="KWYPU_i1Vk8Rn" text="集落のシーンに置いたアイテムがゲーム内の1日ごとに盗まれる確率。0 = 盗まれない。" />
+		<string id="KWYPU_L5dXg2w" text="デバッグ用ログ" />
+		<string id="KWYPU_y0Hp6Me" text="デバッグ用ログ（英語のみ）。[デフォルト: 無効]" />
+		<string id="KWYPU_q7Ld2xA" text="{ITEM}には{SKILL} {REQUIRED}が必要です（現在{CURRENT}）。退出時にインベントリへ移されます。" />
+		<string id="KWYPU_Vb4nR8e" text="{ITEM}は平服と一緒に装備できません。退出時にインベントリへ移されます。" />
+		<string id="KWYPU_m3TzK9w" text="ここで拾った武器は退出時に保持されません。" />
+		<string id="KWYPU_Hs6pY1c" text="保持した武器: {ITEMS}" />
+		<string id="KWYPU_xE2jN5u" text="インベントリへ移動: {ITEMS}" />
+	</strings>
+</base>

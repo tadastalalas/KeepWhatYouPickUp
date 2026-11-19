@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+	<tags>
+		<tag language="Русский" />
+	</tags>
+	<strings>
+		<string id="KWYPU_c8WfQ0r" text="Подобранное оружие, требующее навыка выше, чем у героя, попадает в инвентарь отряда, а не в снаряжение." />
+		<string id="KWYPU_Rk5wD2g" text="Терять сломанные щиты и израсходованное метательное оружие" />
+		<string id="KWYPU_p9Ns4Ty" text="Щиты, сломанные в бою, и израсходованное метательное оружие или боеприпасы пропадают после миссии. Выкл. = они возвращаются, как в оригинальной игре." />
+		<string id="KWYPU_aN3kT7v" text="Keep What You Pick Up" />
+		<string id="KWYPU_G1hQm4s" text="Общие" />
+		<string id="KWYPU_D8rVx2p" text="Выброшенные предметы" />
+		<string id="KWYPU_bZ6wL0e" text="Технические настройки" />
+		<string id="KWYPU_E5tYu9c" text="Включено" />
+		<string id="KWYPU_S2jKf6n" text="Применяется к" />
+		<string id="KWYPU_h4PzR1m" text="Чьё подобранное оружие сохраняется после миссии." />
+		<string id="KWYPU_o7Xc3Wd" text="Только игрок" />
+		<string id="KWYPU_C9vBn5q" text="Игрок + герои клана игрока" />
+		<string id="KWYPU_A1lMs8g" text="Игрок + все герои" />
+		<string id="KWYPU_k6Ue2Hy" text="Требовать уровень навыка" />
+		<string id="KWYPU_r3Fo9Jt" text="Выделять непригодные предметы красным" />
+		<string id="KWYPU_w8Gi1Za" text="Предметы, для которых у игрока не хватает навыка, получают красный контур вместо зелёного." />
+		<string id="KWYPU_B4yNd7x" text="Нельзя подбирать недоступные предметы" />
+		<string id="KWYPU_u2Qe5Ks" text="Игрок не может подбирать предметы, требующие навыка выше, чем у героя." />
+		<string id="KWYPU_P6mWa3r" text="Сохранять выброшенные предметы в сценах" />
+		<string id="KWYPU_f9Tc0Lh" text="Предметы, выброшенные игроком, остаются на всю миссию; в сценах поселений они сохраняются до следующих посещений." />
+		<string id="KWYPU_T7sJb4o" text="Шанс кражи снаряжения" />
+		<string id="KWYPU_i1Vk8Rn" text="Шанс за игровой день, что предмет, оставленный в сцене поселения, украдут. 0 = никогда." />
+		<string id="KWYPU_L5dXg2w" text="Логирование для отладки" />
+		<string id="KWYPU_y0Hp6Me" text="Логирование для отладки (только на английском). [По умолчанию: отключено]" />
+		<string id="KWYPU_q7Ld2xA" text="{ITEM} требует {SKILL} {REQUIRED} (у вас {CURRENT}). При уходе попадёт в ваш инвентарь." />
+		<string id="KWYPU_Vb4nR8e" text="{ITEM} нельзя носить с гражданской одеждой. При уходе попадёт в ваш инвентарь." />
+		<string id="KWYPU_m3TzK9w" text="Оружие, подобранное здесь, не сохранится при уходе." />
+		<string id="KWYPU_Hs6pY1c" text="Сохранено оружие: {ITEMS}" />
+		<string id="KWYPU_xE2jN5u" text="Перемещено в инвентарь: {ITEMS}" />
+	</strings>
+</base>

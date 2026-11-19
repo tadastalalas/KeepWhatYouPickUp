@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+	<tags>
+		<tag language="Italiano" />
+	</tags>
+	<strings>
+		<string id="KWYPU_c8WfQ0r" text="Le armi raccolte che richiedono più abilità di quella dell'eroe finiscono nell'inventario del gruppo invece di essere equipaggiate." />
+		<string id="KWYPU_Rk5wD2g" text="Perdi scudi rotti e armi da lancio esaurite" />
+		<string id="KWYPU_p9Ns4Ty" text="Gli scudi che si rompono e le armi da lancio o le munizioni esaurite in battaglia vanno persi dopo la missione. Disattivato = tornano, come nel gioco base." />
+		<string id="KWYPU_aN3kT7v" text="Keep What You Pick Up" />
+		<string id="KWYPU_G1hQm4s" text="Generale" />
+		<string id="KWYPU_D8rVx2p" text="Oggetti lasciati cadere" />
+		<string id="KWYPU_bZ6wL0e" text="Impostazioni tecniche" />
+		<string id="KWYPU_E5tYu9c" text="Attivato" />
+		<string id="KWYPU_S2jKf6n" text="Si applica a" />
+		<string id="KWYPU_h4PzR1m" text="Chi conserva le armi raccolte dopo una missione." />
+		<string id="KWYPU_o7Xc3Wd" text="Solo giocatore" />
+		<string id="KWYPU_C9vBn5q" text="Giocatore + eroi del clan del giocatore" />
+		<string id="KWYPU_A1lMs8g" text="Giocatore + tutti gli eroi" />
+		<string id="KWYPU_k6Ue2Hy" text="Imponi requisito di abilità" />
+		<string id="KWYPU_r3Fo9Jt" text="Evidenzia in rosso gli oggetti inutilizzabili" />
+		<string id="KWYPU_w8Gi1Za" text="Gli oggetti per cui il giocatore non ha abbastanza abilità hanno un contorno rosso invece che verde." />
+		<string id="KWYPU_B4yNd7x" text="Impossibile raccogliere oggetti non disponibili" />
+		<string id="KWYPU_u2Qe5Ks" text="Il giocatore non può raccogliere oggetti che richiedono più abilità di quella dell&apos;eroe." />
+		<string id="KWYPU_P6mWa3r" text="Mantieni gli oggetti lasciati nelle scene" />
+		<string id="KWYPU_f9Tc0Lh" text="Gli oggetti lasciati cadere dal giocatore restano per tutta la missione; nelle scene degli insediamenti vengono conservati per le visite successive." />
+		<string id="KWYPU_T7sJb4o" text="Probabilità di furto dell&apos;equipaggiamento" />
+		<string id="KWYPU_i1Vk8Rn" text="Probabilità per giorno di gioco che un oggetto lasciato in una scena di insediamento venga rubato. 0 = mai." />
+		<string id="KWYPU_L5dXg2w" text="Registrazione per il debug" />
+		<string id="KWYPU_y0Hp6Me" text="Registrazione per il debug (solo in inglese). [Predefinito: disabilitato]" />
+		<string id="KWYPU_q7Ld2xA" text="{ITEM} richiede {SKILL} {REQUIRED} (hai {CURRENT}). Andrà nel tuo inventario quando te ne vai." />
+		<string id="KWYPU_Vb4nR8e" text="{ITEM} non si può portare con abiti civili. Andrà nel tuo inventario quando te ne vai." />
+		<string id="KWYPU_m3TzK9w" text="Le armi raccolte qui non vengono tenute quando te ne vai." />
+		<string id="KWYPU_Hs6pY1c" text="Armi tenute: {ITEMS}" />
+		<string id="KWYPU_xE2jN5u" text="Spostato nel tuo inventario: {ITEMS}" />
+	</strings>
+</base>

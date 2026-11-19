@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+	<tags>
+		<tag language="Português (BR)" />
+	</tags>
+	<strings>
+		<string id="KWYPU_c8WfQ0r" text="Armas recolhidas que exigem mais perícia do que o herói possui vão para o inventário do grupo em vez de serem equipadas." />
+		<string id="KWYPU_Rk5wD2g" text="Perder escudos quebrados e armas de arremesso gastas" />
+		<string id="KWYPU_p9Ns4Ty" text="Escudos que quebram e armas de arremesso ou munição esgotadas em batalha são perdidos após a missão. Desligado = eles voltam, como no jogo original." />
+		<string id="KWYPU_aN3kT7v" text="Keep What You Pick Up" />
+		<string id="KWYPU_G1hQm4s" text="Geral" />
+		<string id="KWYPU_D8rVx2p" text="Itens largados" />
+		<string id="KWYPU_bZ6wL0e" text="Configurações técnicas" />
+		<string id="KWYPU_E5tYu9c" text="Ativado" />
+		<string id="KWYPU_S2jKf6n" text="Aplica-se a" />
+		<string id="KWYPU_h4PzR1m" text="De quem as armas recolhidas são mantidas após uma missão." />
+		<string id="KWYPU_o7Xc3Wd" text="Somente o jogador" />
+		<string id="KWYPU_C9vBn5q" text="Jogador + heróis do clã do jogador" />
+		<string id="KWYPU_A1lMs8g" text="Jogador + todos os heróis" />
+		<string id="KWYPU_k6Ue2Hy" text="Exigir requisito de perícia" />
+		<string id="KWYPU_r3Fo9Jt" text="Destacar itens inutilizáveis em vermelho" />
+		<string id="KWYPU_w8Gi1Za" text="Itens para os quais o jogador não tem perícia suficiente ganham contorno vermelho em vez de verde." />
+		<string id="KWYPU_B4yNd7x" text="Não pode pegar itens indisponíveis" />
+		<string id="KWYPU_u2Qe5Ks" text="O jogador não pode pegar itens que exigem mais perícia do que o herói possui." />
+		<string id="KWYPU_P6mWa3r" text="Manter itens largados nas cenas" />
+		<string id="KWYPU_f9Tc0Lh" text="Itens que o jogador larga permanecem durante toda a missão; em cenas de assentamentos eles ficam guardados para visitas futuras." />
+		<string id="KWYPU_T7sJb4o" text="Chance de roubo de equipamento" />
+		<string id="KWYPU_i1Vk8Rn" text="Chance por dia de jogo de um item deixado em uma cena de assentamento ser roubado. 0 = nunca." />
+		<string id="KWYPU_L5dXg2w" text="Registro para depuração" />
+		<string id="KWYPU_y0Hp6Me" text="Registro para depuração (somente em inglês). [Padrão: desabilitado]" />
+		<string id="KWYPU_q7Ld2xA" text="{ITEM} requer {SKILL} {REQUIRED} (você tem {CURRENT}). Irá para o seu inventário quando você sair." />
+		<string id="KWYPU_Vb4nR8e" text="{ITEM} não pode ser usado com trajes civis. Irá para o seu inventário quando você sair." />
+		<string id="KWYPU_m3TzK9w" text="Armas recolhidas aqui não são mantidas quando você sai." />
+		<string id="KWYPU_Hs6pY1c" text="Armas mantidas: {ITEMS}" />
+		<string id="KWYPU_xE2jN5u" text="Movido para o seu inventário: {ITEMS}" />
+	</strings>
+</base>

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+	<tags>
+		<tag language="繁體中文" />
+	</tags>
+	<strings>
+		<string id="KWYPU_c8WfQ0r" text="拾取的武器若要求高於英雄技能，將放入隊伍物品欄而不會被裝備。" />
+		<string id="KWYPU_Rk5wD2g" text="失去破損的盾牌和用盡的投擲武器" />
+		<string id="KWYPU_p9Ns4Ty" text="戰鬥中損壞的盾牌以及用盡的投擲武器或彈藥會在任務結束後遺失。關閉 = 它們會回來，與原版相同。" />
+		<string id="KWYPU_aN3kT7v" text="Keep What You Pick Up" />
+		<string id="KWYPU_G1hQm4s" text="一般" />
+		<string id="KWYPU_D8rVx2p" text="丟棄的物品" />
+		<string id="KWYPU_bZ6wL0e" text="技術設定" />
+		<string id="KWYPU_E5tYu9c" text="啟用" />
+		<string id="KWYPU_S2jKf6n" text="適用對象" />
+		<string id="KWYPU_h4PzR1m" text="哪些人在任務後保留拾取的武器。" />
+		<string id="KWYPU_o7Xc3Wd" text="僅玩家" />
+		<string id="KWYPU_C9vBn5q" text="玩家 + 玩家家族英雄" />
+		<string id="KWYPU_A1lMs8g" text="玩家 + 所有英雄" />
+		<string id="KWYPU_k6Ue2Hy" text="強制技能要求" />
+		<string id="KWYPU_r3Fo9Jt" text="將無法使用的物品標為紅色" />
+		<string id="KWYPU_w8Gi1Za" text="玩家技能不足的物品顯示紅色輪廓而非綠色。" />
+		<string id="KWYPU_B4yNd7x" text="無法拾取不可用的物品" />
+		<string id="KWYPU_u2Qe5Ks" text="玩家無法拾取需要的技能高於英雄技能的物品。" />
+		<string id="KWYPU_P6mWa3r" text="在場景中保留丟棄的物品" />
+		<string id="KWYPU_f9Tc0Lh" text="玩家丟棄的物品在整個任務中保留；在定居點場景中會保留到之後再次造訪。" />
+		<string id="KWYPU_T7sJb4o" text="裝備被盜機率" />
+		<string id="KWYPU_i1Vk8Rn" text="留在定居點場景中的物品每個遊戲日被盜的機率。0 = 從不。" />
+		<string id="KWYPU_L5dXg2w" text="除錯日誌" />
+		<string id="KWYPU_y0Hp6Me" text="除錯日誌（僅限英文）。[ 預設：停用 ]" />
+		<string id="KWYPU_q7Ld2xA" text="{ITEM}需要{SKILL} {REQUIRED}（你只有{CURRENT}）。離開時將移入你的物品欄。" />
+		<string id="KWYPU_Vb4nR8e" text="{ITEM}無法與平民服裝一起裝備。離開時將移入你的物品欄。" />
+		<string id="KWYPU_m3TzK9w" text="在此拾取的武器離開時不會保留。" />
+		<string id="KWYPU_Hs6pY1c" text="保留的武器：{ITEMS}" />
+		<string id="KWYPU_xE2jN5u" text="已移入物品欄：{ITEMS}" />
+	</strings>
+</base>

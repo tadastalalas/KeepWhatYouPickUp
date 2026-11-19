@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+	<tags>
+		<tag language="Polski" />
+	</tags>
+	<strings>
+		<string id="KWYPU_c8WfQ0r" text="Podniesiona broń wymagająca wyższej umiejętności niż ma bohater trafia do ekwipunku drużyny zamiast zostać założona." />
+		<string id="KWYPU_Rk5wD2g" text="Utrata zniszczonych tarcz i zużytej broni miotanej" />
+		<string id="KWYPU_p9Ns4Ty" text="Tarcze zniszczone w walce oraz zużyta broń miotana lub amunicja przepadają po misji. Wyłączone = wracają, jak w podstawowej grze." />
+		<string id="KWYPU_aN3kT7v" text="Keep What You Pick Up" />
+		<string id="KWYPU_G1hQm4s" text="Ogólne" />
+		<string id="KWYPU_D8rVx2p" text="Upuszczone przedmioty" />
+		<string id="KWYPU_bZ6wL0e" text="Ustawienia techniczne" />
+		<string id="KWYPU_E5tYu9c" text="Włączone" />
+		<string id="KWYPU_S2jKf6n" text="Dotyczy" />
+		<string id="KWYPU_h4PzR1m" text="Czyja podniesiona broń zostaje po misji." />
+		<string id="KWYPU_o7Xc3Wd" text="Tylko gracz" />
+		<string id="KWYPU_C9vBn5q" text="Gracz + bohaterowie klanu gracza" />
+		<string id="KWYPU_A1lMs8g" text="Gracz + wszyscy bohaterowie" />
+		<string id="KWYPU_k6Ue2Hy" text="Wymagaj poziomu umiejętności" />
+		<string id="KWYPU_r3Fo9Jt" text="Podświetlaj nieużyteczne przedmioty na czerwono" />
+		<string id="KWYPU_w8Gi1Za" text="Przedmioty, do których gracz ma za niską umiejętność, mają czerwony kontur zamiast zielonego." />
+		<string id="KWYPU_B4yNd7x" text="Nie można podnosić niedostępnych przedmiotów" />
+		<string id="KWYPU_u2Qe5Ks" text="Gracz nie może podnosić przedmiotów wymagających wyższej umiejętności niż ma bohater." />
+		<string id="KWYPU_P6mWa3r" text="Zachowuj upuszczone przedmioty w scenach" />
+		<string id="KWYPU_f9Tc0Lh" text="Przedmioty upuszczone przez gracza zostają przez całą misję; w scenach osad są przechowywane na kolejne wizyty." />
+		<string id="KWYPU_T7sJb4o" text="Szansa na kradzież ekwipunku" />
+		<string id="KWYPU_i1Vk8Rn" text="Szansa na dzień gry, że przedmiot zostawiony w scenie osady zostanie skradziony. 0 = nigdy." />
+		<string id="KWYPU_L5dXg2w" text="Rejestrowanie do debugowania" />
+		<string id="KWYPU_y0Hp6Me" text="Rejestrowanie do debugowania (tylko w języku angielskim). [Domyślnie: wyłączone]" />
+		<string id="KWYPU_q7Ld2xA" text="{ITEM} wymaga {SKILL} {REQUIRED} (masz {CURRENT}). Po wyjściu trafi do twojego ekwipunku." />
+		<string id="KWYPU_Vb4nR8e" text="{ITEM} nie pasuje do stroju cywilnego. Po wyjściu trafi do twojego ekwipunku." />
+		<string id="KWYPU_m3TzK9w" text="Broń podniesiona tutaj nie zostanie zachowana po wyjściu." />
+		<string id="KWYPU_Hs6pY1c" text="Zachowana broń: {ITEMS}" />
+		<string id="KWYPU_xE2jN5u" text="Przeniesiono do ekwipunku: {ITEMS}" />
+	</strings>
+</base>

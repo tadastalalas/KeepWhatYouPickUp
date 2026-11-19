@@ -1,0 +1,83 @@
+[center][size=4]Weapons you [color=#93c47d]pick up[/color] in battles and scenes [color=#93c47d]stay in your equipment[/color]. Items you drop in towns, castles and villages [color=#93c47d]stay on the ground[/color] for later visits.[/size]
+
+[color=#93c47d][size=3]Supported game versions: 1.5.7, 1.4.8, 1.4.7.[/size][/color]
+
+[youtube]G-B-LrRoGqs[/youtube][/center]
+
+[color=#ffff00][size=4]What's new in v1.5.7.0[/size][/color]
+[color=#ffd966]Broken shields and used-up javelins/ammo now stay in the hero's equipment after a mission, as in vanilla. A new setting lets you lose them instead.[/color]
+[color=#93c47d]Picked-up weapons above the hero's skill go to the party inventory instead of disappearing.[/color]
+[color=#ffd966]Military weapons picked up while wearing civilian clothes go to the inventory instead of the civilian set.[/color]
+[color=#93c47d]On-screen messages when you pick up an item you cannot keep, and a list of kept and stored items when you leave.[/color]
+[color=#ffd966]Stolen Equipment Chance default lowered from 10% to 3% per day.[/color]
+[color=#93c47d]Mod Configuration Menu is no longer required.[/color]
+[color=#93c47d]More fixes - see the Changelog tab.[/color]
+
+[color=#ffff00][size=4]Features[/size][/color]
+[color=#ffd966]Weapons picked up during a mission are written to the hero's equipment when the mission ends. Weapons you dropped are removed from it.[/color]
+[color=#93c47d]Applies to the player only, to the player and player clan heroes, or to all heroes (lords and wanderers). Simple soldiers are never affected.[/color]
+[color=#ffd966]Picked-up weapons above the hero's skill go to the party inventory instead of being equipped.[/color] ([color=#6aa84f]on[/color]/[color=#e06666]off[/color])
+[color=#93c47d]Military weapons picked up while wearing civilian clothes go to the party inventory.[/color]
+[color=#ffd966]Broken shields and used-up javelins/ammo come back after the mission, as in vanilla, or are lost for realism.[/color] ([color=#6aa84f]on[/color]/[color=#e06666]off[/color])
+[color=#93c47d]Items the player cannot use get a [/color][color=#e06666]red[/color][color=#93c47d] contour instead of the usual green one.[/color] ([color=#6aa84f]on[/color]/[color=#e06666]off[/color])
+[color=#ffd966]The player cannot pick up items they lack the skill for.[/color] ([color=#6aa84f]on[/color]/[color=#e06666]off[/color])
+[color=#93c47d]Items the player drops never despawn during a mission (part of the Persist Dropped Items In Scenes setting).[/color]
+[color=#ffd966]Items dropped in town, castle and village scenes are saved and spawned again at the same spot on your next visit, with modifier, ammo count and banner intact.[/color] ([color=#6aa84f]on[/color]/[color=#e06666]off[/color])
+[color=#93c47d]Items left in a settlement can be stolen - a small chance per in-game day.[/color]
+[color=#ffd966]On-screen messages tell you when a picked-up item cannot be kept, and list what was kept or moved to the inventory when you leave.[/color]
+[color=#93c47d]Works with or without Mod Configuration Menu.[/color]
+[color=#ffd966]Translations for 12 languages.[/color]
+
+[center][color=#6fa8dc][size=4]Additional languages included (using copilot ai translation)[/size][/color]
+Português (BR), 简体中文, 繁體中文, Deutsch, Français, Italiano, 日本語, 한국어, Polski, Русский, Español (LA), Türkçe[/center]
+
+[color=#ffff00][size=4]Settings[/size][/color]
+[color=#6fa8dc]General[/color]
+[color=#ffd966]Enabled[/color] - default [color=#6aa84f]on[/color]
+[color=#ffd966]Applies To[/color] - Player only / Player + player clan heroes / Player + all heroes, default [color=#93c47d]Player only[/color]
+[color=#ffd966]Enforce Skill Requirement[/color] - default [color=#6aa84f]on[/color]
+[color=#ffd966]Highlight Unusable Items Red[/color] - default [color=#6aa84f]on[/color]
+[color=#ffd966]Cannot Pick Up Unavailable Items[/color] - default [color=#e06666]off[/color]
+[color=#ffd966]Lose Broken Shields And Spent Throwing Weapons[/color] - default [color=#e06666]off[/color]
+[color=#6fa8dc]Dropped Items[/color]
+[color=#ffd966]Persist Dropped Items In Scenes[/color] - default [color=#6aa84f]on[/color]
+[color=#ffd966]Stolen Equipment Chance[/color] - 0 to 100%, default [color=#93c47d]3%[/color] (per in-game day, 0 = never)
+[color=#6fa8dc]Technical settings[/color]
+[color=#ffd966]Logging for debugging[/color] - default [color=#e06666]off[/color]
+
+[color=#6fa8dc]With Mod Configuration Menu:[/color] change them in game under [color=#ffd966]Options > Mod Options[/color]. Changes apply at once.
+[color=#6fa8dc]Without Mod Configuration Menu:[/color] open [color=#ffd966]Modules[/color]\[color=#f1c232]KeepWhatYouPickUp[/color]\[color=#ffd966]ModConfiguration.xml[/color] in any text editor. The file is read every time a campaign is started or loaded. If it is deleted or broken, the mod creates a new one with the default values.
+
+[color=#ffff00][size=4]Game versions[/size][/color]
+[color=#93c47d]1.5.7[/color], [color=#93c47d]1.4.8[/color], [color=#93c47d]1.4.7[/color] in the same download. The mod picks the right files for your game by itself.
+
+[color=#ffff00][size=4]Compatibility[/size][/color]
+Can be added [color=#93c47d]anytime[/color]. Stores dropped item data in save game files. Remove the mod only after picking up or losing stored items; otherwise the save will load with a harmless warning.
+Small Harmony patches (reading weapons on pickup and right before a hero goes down, blocking pickups above your skill); everything else uses mission events.
+Field battles, sieges, sally outs, naval battles, hideouts, arena and tournaments do [color=#e06666]not[/color] store dropped items - they are cleared when the fight ends, as in vanilla.
+Armor, horses and banners are never changed.
+
+[color=#ffff00][size=4]Requirements[/size][/color]
+[url=https://www.nexusmods.com/mountandblade2bannerlord/mods/2006]Harmony[/url] - [color=#e06666]required[/color].
+[url=https://www.nexusmods.com/mountandblade2bannerlord/mods/612]Mod Configuration Menu[/url] - [color=#6aa84f]optional[/color], for changing the settings in game.
+
+[color=#ffff00][size=4]Installation[/size][/color]
+Updating? [color=#e06666]Delete the old mod folder first[/color], never overwrite it.
+Advisable to use [color=#ffd966]7zip[/color] to extract archive.
+Put it in [color=#ffd966]Mount & Blade II Bannerlord[/color]\[color=#f1c232]Modules[/color] folder.
+Enable the mod in the launcher. [url=https://www.nexusmods.com/mountandblade2bannerlord/mods/2006]Harmony[/url] and [url=https://www.nexusmods.com/mountandblade2bannerlord/mods/612]Mod Configuration Menu[/url] (if you use it) must be above it.
+
+[color=#ffff00][size=4]Found a problem?[/size][/color]
+Generate a crash report link using [url=https://www.nexusmods.com/mountandblade2bannerlord/mods/2018]ButterLib[/url] mod. How to do that the mini guide is here: [url=http://bannerlordmodding.lt/guides/how_to_report_a_crash/]How To Report A Crash[/url]
+Turn on [color=#ffd966]Logging for debugging[/color] in [color=#ffd966]MCM[/color] settings or [color=#ffd966]ModConfiguration.xml[/color] in mod folder, [color=#f6b26b]repeat the problem[/color], then attach the file from [color=#ffd966]Modules[/color]\[color=#f1c232]KeepWhatYouPickUp[/color]\[color=#ffd966]logs[/color] to your [url=https://www.nexusmods.com/mountandblade2bannerlord/mods/2018]ButterLib[/url] crash report.
+
+[color=#a4c2f4]General Credits:[/color]
+[url=https://next.nexusmods.com/profile/LesserScholar]Lesser Scholar[/url] who made extensive [url=https://www.youtube.com/watch?v=tOziMRXJ7tM&list=PLzebdAxJeltRwfJ8jzsNolgHkRvLjoCRC]Artisan Workshop Mod Tutorial[/url].
+[url=https://next.nexusmods.com/profile/LitauenLitauen]LitauenLitauen[/url] for his priceless modding documentation at [url=http://bannerlordmodding.lt/]BannerlordModding.lt[/url].
+Mount & Blade Modding community [url=https://discord.gg/TGpNRpXGQq]Discord Channel[/url].
+
+[color=#a4c2f4]Source On GitHub:[/color] [url=https://github.com/tadastalalas/KeepWhatYouPickUp]https://github.com/tadastalalas/KeepWhatYouPickUp[/url]
+[color=#a4c2f4]Issues, Suggestions & Other Miscellaneous:[/color] [url=https://discord.gg/NwS7yQgxvu]https://discord.gg/NwS7yQgxvu[/url]
+[color=#a4c2f4]Comprehensive Bannerlord Modding Guide:[/color] [url=https://www.nexusmods.com/mountandblade2bannerlord/mods/11354]Vanilla Plus Proper Modding Notes[/url]
+[color=#a4c2f4]Other Mods:[/color] [url=https://www.nexusmods.com/profile/TadasTheLithuanian/mods]TadasTheLithuanian Nexus Profile[/url]
+[color=#a4c2f4]Support Me On:[/color] [url=https://ko-fi.com/tadasthelithuanian]https://ko-fi.com/tadasthelithuanian[/url] [color=#a4c2f4]or[/color] [url=https://paypal.me/tadastalalas]https://paypal.me/tadastalalas[/url]

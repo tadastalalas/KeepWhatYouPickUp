@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+	<tags>
+		<tag language="English" />
+	</tags>
+	<strings>
+		<string id="KWYPU_c8WfQ0r" text="Picked-up weapons above the hero's skill go to the party inventory instead of being equipped." />
+		<string id="KWYPU_Rk5wD2g" text="Lose Broken Shields And Spent Throwing Weapons" />
+		<string id="KWYPU_p9Ns4Ty" text="Shields that break and throwing weapons or ammo used up in battle are lost after the mission. Off = they come back, as in vanilla." />
+		<string id="KWYPU_aN3kT7v" text="Keep What You Pick Up" />
+		<string id="KWYPU_G1hQm4s" text="General" />
+		<string id="KWYPU_D8rVx2p" text="Dropped Items" />
+		<string id="KWYPU_bZ6wL0e" text="Technical settings" />
+		<string id="KWYPU_E5tYu9c" text="Enabled" />
+		<string id="KWYPU_S2jKf6n" text="Applies To" />
+		<string id="KWYPU_h4PzR1m" text="Whose picked-up weapons persist after a mission." />
+		<string id="KWYPU_o7Xc3Wd" text="Player only" />
+		<string id="KWYPU_C9vBn5q" text="Player + player clan heroes" />
+		<string id="KWYPU_A1lMs8g" text="Player + all heroes" />
+		<string id="KWYPU_k6Ue2Hy" text="Enforce Skill Requirement" />
+		<string id="KWYPU_r3Fo9Jt" text="Highlight Unusable Items Red" />
+		<string id="KWYPU_w8Gi1Za" text="Items the player lacks the skill for get a red contour instead of green." />
+		<string id="KWYPU_B4yNd7x" text="Cannot Pick Up Unavailable Items" />
+		<string id="KWYPU_u2Qe5Ks" text="Player cannot pick up items that need more skill than the hero has." />
+		<string id="KWYPU_P6mWa3r" text="Persist Dropped Items In Scenes" />
+		<string id="KWYPU_f9Tc0Lh" text="Items the player drops stay for the whole mission; in settlement scenes they are kept for later visits." />
+		<string id="KWYPU_T7sJb4o" text="Stolen Equipment Chance" />
+		<string id="KWYPU_i1Vk8Rn" text="Chance per in-game day that an item left in a settlement scene is stolen. 0 = never." />
+		<string id="KWYPU_L5dXg2w" text="Logging for debugging" />
+		<string id="KWYPU_y0Hp6Me" text="Logging for debugging (English only). [Default: disabled]" />
+		<string id="KWYPU_q7Ld2xA" text="{ITEM} needs {SKILL} {REQUIRED} (you have {CURRENT}). It will be moved to your inventory when you leave." />
+		<string id="KWYPU_Vb4nR8e" text="{ITEM} can't be worn with civilian clothes. It will be moved to your inventory when you leave." />
+		<string id="KWYPU_m3TzK9w" text="Weapons picked up here are not kept when you leave." />
+		<string id="KWYPU_Hs6pY1c" text="Weapons kept: {ITEMS}" />
+		<string id="KWYPU_xE2jN5u" text="Moved to your inventory: {ITEMS}" />
+	</strings>
+</base>

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+	<tags>
+		<tag language="한국어" />
+	</tags>
+	<strings>
+		<string id="KWYPU_c8WfQ0r" text="영웅의 기술보다 요구치가 높은 주운 무기는 장착되지 않고 부대 인벤토리로 들어갑니다." />
+		<string id="KWYPU_Rk5wD2g" text="부서진 방패와 소진한 투척 무기 잃기" />
+		<string id="KWYPU_p9Ns4Ty" text="전투에서 부서진 방패와 다 써버린 투척 무기나 탄약은 임무 후 사라집니다. 끔 = 바닐라처럼 돌아옵니다." />
+		<string id="KWYPU_aN3kT7v" text="Keep What You Pick Up" />
+		<string id="KWYPU_G1hQm4s" text="일반" />
+		<string id="KWYPU_D8rVx2p" text="떨어뜨린 아이템" />
+		<string id="KWYPU_bZ6wL0e" text="기술 설정" />
+		<string id="KWYPU_E5tYu9c" text="활성화" />
+		<string id="KWYPU_S2jKf6n" text="적용 대상" />
+		<string id="KWYPU_h4PzR1m" text="임무 후 주운 무기를 유지할 대상입니다." />
+		<string id="KWYPU_o7Xc3Wd" text="플레이어만" />
+		<string id="KWYPU_C9vBn5q" text="플레이어 + 플레이어 가문 영웅" />
+		<string id="KWYPU_A1lMs8g" text="플레이어 + 모든 영웅" />
+		<string id="KWYPU_k6Ue2Hy" text="기술 요구치 적용" />
+		<string id="KWYPU_r3Fo9Jt" text="사용할 수 없는 아이템을 빨간색으로 강조" />
+		<string id="KWYPU_w8Gi1Za" text="플레이어의 기술이 부족한 아이템은 초록색 대신 빨간색 윤곽선으로 표시됩니다." />
+		<string id="KWYPU_B4yNd7x" text="사용할 수 없는 아이템 줍기 불가" />
+		<string id="KWYPU_u2Qe5Ks" text="영웅의 기술보다 높은 요구치의 아이템은 플레이어가 주울 수 없습니다." />
+		<string id="KWYPU_P6mWa3r" text="장면에 떨어뜨린 아이템 유지" />
+		<string id="KWYPU_f9Tc0Lh" text="플레이어가 떨어뜨린 아이템은 임무 내내 남아 있으며, 정착지 장면에서는 다음 방문까지 보관됩니다." />
+		<string id="KWYPU_T7sJb4o" text="장비 도난 확률" />
+		<string id="KWYPU_i1Vk8Rn" text="정착지 장면에 남겨둔 아이템이 게임 내 하루마다 도난당할 확률입니다. 0 = 없음." />
+		<string id="KWYPU_L5dXg2w" text="디버깅을 위한 로깅" />
+		<string id="KWYPU_y0Hp6Me" text="디버깅을 위한 로깅(영어 전용). [기본값: 비활성화]" />
+		<string id="KWYPU_q7Ld2xA" text="{ITEM}은(는) {SKILL} {REQUIRED}이(가) 필요합니다 (현재 {CURRENT}). 떠날 때 인벤토리로 옮겨집니다." />
+		<string id="KWYPU_Vb4nR8e" text="{ITEM}은(는) 평상복과 함께 착용할 수 없습니다. 떠날 때 인벤토리로 옮겨집니다." />
+		<string id="KWYPU_m3TzK9w" text="여기서 주운 무기는 떠날 때 유지되지 않습니다." />
+		<string id="KWYPU_Hs6pY1c" text="유지한 무기: {ITEMS}" />
+		<string id="KWYPU_xE2jN5u" text="인벤토리로 이동: {ITEMS}" />
+	</strings>
+</base>

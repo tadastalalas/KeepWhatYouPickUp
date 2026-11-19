@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+	<tags>
+		<tag language="Français" />
+	</tags>
+	<strings>
+		<string id="KWYPU_c8WfQ0r" text="Les armes ramassées dont l'exigence dépasse la compétence du héros vont dans l'inventaire du groupe au lieu d'être équipées." />
+		<string id="KWYPU_Rk5wD2g" text="Perdre les boucliers brisés et les armes de jet épuisées" />
+		<string id="KWYPU_p9Ns4Ty" text="Les boucliers brisés et les armes de jet ou munitions épuisées au combat sont perdus après la mission. Désactivé = ils reviennent, comme dans le jeu de base." />
+		<string id="KWYPU_aN3kT7v" text="Keep What You Pick Up" />
+		<string id="KWYPU_G1hQm4s" text="Général" />
+		<string id="KWYPU_D8rVx2p" text="Objets lâchés" />
+		<string id="KWYPU_bZ6wL0e" text="Paramètres techniques" />
+		<string id="KWYPU_E5tYu9c" text="Activé" />
+		<string id="KWYPU_S2jKf6n" text="S&apos;applique à" />
+		<string id="KWYPU_h4PzR1m" text="Qui conserve les armes ramassées après une mission." />
+		<string id="KWYPU_o7Xc3Wd" text="Joueur uniquement" />
+		<string id="KWYPU_C9vBn5q" text="Joueur + héros du clan du joueur" />
+		<string id="KWYPU_A1lMs8g" text="Joueur + tous les héros" />
+		<string id="KWYPU_k6Ue2Hy" text="Imposer l&apos;exigence de compétence" />
+		<string id="KWYPU_r3Fo9Jt" text="Surligner en rouge les objets inutilisables" />
+		<string id="KWYPU_w8Gi1Za" text="Les objets pour lesquels le joueur n&apos;a pas la compétence ont un contour rouge au lieu de vert." />
+		<string id="KWYPU_B4yNd7x" text="Impossible de ramasser les objets indisponibles" />
+		<string id="KWYPU_u2Qe5Ks" text="Le joueur ne peut pas ramasser les objets qui exigent plus de compétence que le héros n&apos;en a." />
+		<string id="KWYPU_P6mWa3r" text="Conserver les objets lâchés dans les scènes" />
+		<string id="KWYPU_f9Tc0Lh" text="Les objets lâchés par le joueur restent pendant toute la mission ; dans les scènes de colonies, ils sont conservés pour les visites suivantes." />
+		<string id="KWYPU_T7sJb4o" text="Chance de vol d&apos;équipement" />
+		<string id="KWYPU_i1Vk8Rn" text="Chance par jour de jeu qu&apos;un objet laissé dans une scène de colonie soit volé. 0 = jamais." />
+		<string id="KWYPU_L5dXg2w" text="Journalisation pour le débogage" />
+		<string id="KWYPU_y0Hp6Me" text="Journalisation pour le débogage (anglais uniquement). [Par défaut : désactivé]" />
+		<string id="KWYPU_q7Ld2xA" text="{ITEM} requiert {SKILL} {REQUIRED} (vous avez {CURRENT}). Il ira dans votre inventaire à votre départ." />
+		<string id="KWYPU_Vb4nR8e" text="{ITEM} ne peut pas être porté avec une tenue civile. Il ira dans votre inventaire à votre départ." />
+		<string id="KWYPU_m3TzK9w" text="Les armes ramassées ici ne sont pas conservées à votre départ." />
+		<string id="KWYPU_Hs6pY1c" text="Armes conservées : {ITEMS}" />
+		<string id="KWYPU_xE2jN5u" text="Placé dans votre inventaire : {ITEMS}" />
+	</strings>
+</base>

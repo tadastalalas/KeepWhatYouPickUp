@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModConfiguration>
+    <General>
+        <Enabled>true</Enabled>
+        <Scope>PlayerOnly</Scope>  <!-- PlayerOnly | PlayerAndClan | AllHeroes -->
+        <EnforceSkillRequirement>true</EnforceSkillRequirement>
+        <HighlightUnusable>true</HighlightUnusable>
+        <BlockUnusablePickup>false</BlockUnusablePickup>
+        <LoseSpentWeapons>false</LoseSpentWeapons>
+    </General>
+    <DroppedItems>
+        <PersistSceneDrops>true</PersistSceneDrops>
+        <StolenChance>3</StolenChance>  <!-- 0 to 100 = % per in-game day -->
+    </DroppedItems>
+    <TechnicalSettings>
+        <LoggingEnabled>false</LoggingEnabled>
+    </TechnicalSettings>
+</ModConfiguration>

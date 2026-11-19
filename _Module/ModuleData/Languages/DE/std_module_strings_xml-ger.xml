@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+	<tags>
+		<tag language="Deutsch" />
+	</tags>
+	<strings>
+		<string id="KWYPU_c8WfQ0r" text="Aufgehobene Waffen, deren Anforderung über der Fertigkeit des Helden liegt, kommen ins Gruppeninventar, statt ausgerüstet zu werden." />
+		<string id="KWYPU_Rk5wD2g" text="Zerbrochene Schilde und verbrauchte Wurfwaffen verlieren" />
+		<string id="KWYPU_p9Ns4Ty" text="Schilde, die im Kampf zerbrechen, und aufgebrauchte Wurfwaffen oder Munition sind nach der Mission verloren. Aus = sie kommen zurück, wie im Originalspiel." />
+		<string id="KWYPU_aN3kT7v" text="Keep What You Pick Up" />
+		<string id="KWYPU_G1hQm4s" text="Allgemein" />
+		<string id="KWYPU_D8rVx2p" text="Fallengelassene Gegenstände" />
+		<string id="KWYPU_bZ6wL0e" text="Technische Einstellungen" />
+		<string id="KWYPU_E5tYu9c" text="Aktiviert" />
+		<string id="KWYPU_S2jKf6n" text="Gilt für" />
+		<string id="KWYPU_h4PzR1m" text="Wessen aufgehobene Waffen nach einer Mission erhalten bleiben." />
+		<string id="KWYPU_o7Xc3Wd" text="Nur Spieler" />
+		<string id="KWYPU_C9vBn5q" text="Spieler + Helden des Spielerclans" />
+		<string id="KWYPU_A1lMs8g" text="Spieler + alle Helden" />
+		<string id="KWYPU_k6Ue2Hy" text="Fertigkeitsanforderung durchsetzen" />
+		<string id="KWYPU_r3Fo9Jt" text="Unbenutzbare Gegenstände rot hervorheben" />
+		<string id="KWYPU_w8Gi1Za" text="Gegenstände, für die dem Spieler die Fertigkeit fehlt, erhalten eine rote statt einer grünen Umrandung." />
+		<string id="KWYPU_B4yNd7x" text="Nicht verfügbare Gegenstände nicht aufheben" />
+		<string id="KWYPU_u2Qe5Ks" text="Der Spieler kann keine Gegenstände aufheben, die mehr Fertigkeit erfordern, als der Held hat." />
+		<string id="KWYPU_P6mWa3r" text="Fallengelassene Gegenstände in Szenen behalten" />
+		<string id="KWYPU_f9Tc0Lh" text="Gegenstände, die der Spieler fallen lässt, bleiben die ganze Mission liegen; in Siedlungsszenen bleiben sie für spätere Besuche erhalten." />
+		<string id="KWYPU_T7sJb4o" text="Diebstahlchance für Ausrüstung" />
+		<string id="KWYPU_i1Vk8Rn" text="Chance pro Spieltag, dass ein in einer Siedlungsszene zurückgelassener Gegenstand gestohlen wird. 0 = nie." />
+		<string id="KWYPU_L5dXg2w" text="Protokollierung für Debugging" />
+		<string id="KWYPU_y0Hp6Me" text="Protokollierung für Debugging (nur Englisch). [Standard: deaktiviert]" />
+		<string id="KWYPU_q7Ld2xA" text="{ITEM} erfordert {SKILL} {REQUIRED} (du hast {CURRENT}). Beim Verlassen kommt es in dein Inventar." />
+		<string id="KWYPU_Vb4nR8e" text="{ITEM} passt nicht zur zivilen Kleidung. Beim Verlassen kommt es in dein Inventar." />
+		<string id="KWYPU_m3TzK9w" text="Hier aufgehobene Waffen behältst du beim Verlassen nicht." />
+		<string id="KWYPU_Hs6pY1c" text="Behaltene Waffen: {ITEMS}" />
+		<string id="KWYPU_xE2jN5u" text="In dein Inventar verschoben: {ITEMS}" />
+	</strings>
+</base>

@@ -1,0 +1,19 @@
+KWYPU v1.5.7.0 :
+- Updated for game version 1.5.7. Game versions 1.5.7, 1.4.8 and 1.4.7 are in the same download.
+- Mod Configuration Menu is no longer required. Without it, change the settings in Modules\KeepWhatYouPickUp\ModConfiguration.xml.
+- "Enable Logging" was replaced by "Logging for debugging" in the new "Technical settings" group (default: off).
+	It writes to Modules\KeepWhatYouPickUp\logs.
+- Fixed broken shields and used-up javelins/ammo being removed from the hero's equipment after a mission; they now stay, as in vanilla.
+	- Added the setting "Lose Broken Shields And Spent Throwing Weapons" (General, default: off) to lose them instead, for realism.
+	- Also works for knocked-out or killed heroes.
+- Picked-up weapons above the hero's skill now go to the party inventory instead of disappearing.
+	- Military weapons picked up while wearing civilian gear go to the inventory instead of the civilian set.
+	- Your own weapon, dropped for an item that cannot be equipped, no longer comes back twice.
+	- AI heroes without a party keep such weapons equipped instead of losing them.
+- Weapons falling from a knocked-out or killed hero no longer count as dropped by the player.
+	- Settlement scenes no longer also leave a copy of that weapon on the ground for the next visit.
+- Added on-screen messages:
+	- On pickup: item needs more skill / can't be worn with civilian clothes / weapons picked up here are not kept.
+	- On leaving: list of weapons kept and items moved to the inventory.
+- "Stolen Equipment Chance" default lowered from 10% to 3% per day.
+- Added translations for 12 languages (all settings and messages).

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+	<tags>
+		<tag language="Türkçe" />
+	</tags>
+	<strings>
+		<string id="KWYPU_c8WfQ0r" text="Kahramanın becerisinden yüksek gereksinimli toplanan silahlar kuşanılmak yerine grup envanterine gider." />
+		<string id="KWYPU_Rk5wD2g" text="Kırılan Kalkanları ve Tükenen Fırlatma Silahlarını Kaybet" />
+		<string id="KWYPU_p9Ns4Ty" text="Savaşta kırılan kalkanlar ve tükenen fırlatma silahları veya cephane görevden sonra kaybolur. Kapalı = orijinal oyundaki gibi geri gelirler." />
+		<string id="KWYPU_aN3kT7v" text="Keep What You Pick Up" />
+		<string id="KWYPU_G1hQm4s" text="Genel" />
+		<string id="KWYPU_D8rVx2p" text="Bırakılan Eşyalar" />
+		<string id="KWYPU_bZ6wL0e" text="Teknik ayarlar" />
+		<string id="KWYPU_E5tYu9c" text="Etkin" />
+		<string id="KWYPU_S2jKf6n" text="Uygulandığı Kişiler" />
+		<string id="KWYPU_h4PzR1m" text="Görevden sonra kimin topladığı silahların kalıcı olacağı." />
+		<string id="KWYPU_o7Xc3Wd" text="Yalnızca oyuncu" />
+		<string id="KWYPU_C9vBn5q" text="Oyuncu + oyuncu klanı kahramanları" />
+		<string id="KWYPU_A1lMs8g" text="Oyuncu + tüm kahramanlar" />
+		<string id="KWYPU_k6Ue2Hy" text="Beceri Gereksinimini Uygula" />
+		<string id="KWYPU_r3Fo9Jt" text="Kullanılamayan Eşyaları Kırmızıyla Vurgula" />
+		<string id="KWYPU_w8Gi1Za" text="Oyuncunun becerisinin yetmediği eşyalar yeşil yerine kırmızı çerçeveyle gösterilir." />
+		<string id="KWYPU_B4yNd7x" text="Kullanılamayan Eşyalar Toplanamaz" />
+		<string id="KWYPU_u2Qe5Ks" text="Oyuncu, kahramanın becerisinden yüksek gereksinimli eşyaları toplayamaz." />
+		<string id="KWYPU_P6mWa3r" text="Sahnelerde Bırakılan Eşyaları Koru" />
+		<string id="KWYPU_f9Tc0Lh" text="Oyuncunun bıraktığı eşyalar görev boyunca kalır; yerleşim sahnelerinde sonraki ziyaretler için saklanır." />
+		<string id="KWYPU_T7sJb4o" text="Ekipman Çalınma Şansı" />
+		<string id="KWYPU_i1Vk8Rn" text="Bir yerleşim sahnesinde bırakılan eşyanın oyun günü başına çalınma şansı. 0 = asla." />
+		<string id="KWYPU_L5dXg2w" text="Hata ayıklama için günlük kaydı" />
+		<string id="KWYPU_y0Hp6Me" text="Hata ayıklama için günlük kaydı (yalnızca İngilizce). [Varsayılan: devre dışı]" />
+		<string id="KWYPU_q7Ld2xA" text="{ITEM} için {SKILL} {REQUIRED} gerekir (sende {CURRENT}). Ayrıldığında envanterine gidecek." />
+		<string id="KWYPU_Vb4nR8e" text="{ITEM} sivil kıyafetle kullanılamaz. Ayrıldığında envanterine gidecek." />
+		<string id="KWYPU_m3TzK9w" text="Burada toplanan silahlar ayrıldığında saklanmaz." />
+		<string id="KWYPU_Hs6pY1c" text="Saklanan silahlar: {ITEMS}" />
+		<string id="KWYPU_xE2jN5u" text="Envanterine taşındı: {ITEMS}" />
+	</strings>
+</base>
