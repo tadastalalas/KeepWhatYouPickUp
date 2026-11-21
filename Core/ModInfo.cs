@@ -6,8 +6,8 @@ namespace KeepWhatYouPickUp.Core;
 internal static class ModInfo
 {
     internal const string ModuleId = "KeepWhatYouPickUp";
-    // Released Harmony id (same text as the ModuleId).
-    internal const string HarmonyId = ModuleId;
+    // Never equal to ModuleId: Bannerlord.ModuleLoader patches under the ModuleId, and UnpatchAll(HarmonyId) must not remove those patches.
+    internal const string HarmonyId = ModuleId + ".Harmony";
     internal const string ConfigurationFileName = "ModConfiguration.xml";
     internal const string LogFolderName = "logs";
 

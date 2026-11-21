@@ -3,7 +3,7 @@ KeepWhatYouPickUp: workspace instructions. They override the global file.
 - <Prefix>: KWYPU (Kwypu in type names). <Root> namespace and ModuleId: KeepWhatYouPickUp.
 - Logger: `Diagnostics\KwypuLog.cs` (Debug / Warn / Error).
 - Harmony: PatchAll runs in `SubModule.OnGameStart` (assembly passed explicitly), UnpatchAll in `OnGameEnd`,
-  Harmony id "KeepWhatYouPickUp" (`Core\ModInfo.cs` HarmonyId). Patches are inactive before the first game starts.
+  Harmony id "KeepWhatYouPickUp.Harmony" (`Core\ModInfo.cs` HarmonyId, never equal to the ModuleId). Patches are inactive before the first game starts.
 - `ModSettings.Reload()` runs in `SubModule.OnGameStart` for every game (campaign and custom battle), before PatchAll.
 - Mission behaviors are added only in campaign missions (`SubModule.OnMissionBehaviorInitialize`, `Campaign.Current != null`).
 - Rules facade: `Core\EquipmentPersistence.cs` (IsEligible, IsEnforced, IsSpentLost, MeetsSkill).

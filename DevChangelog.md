@@ -1,5 +1,14 @@
 # KeepWhatYouPickUp developer changelog
 
+## KWYPU v1.5.7.1
+
+- Harmony id `KeepWhatYouPickUp` → `KeepWhatYouPickUp.Harmony` (`Core\ModInfo.cs` `HarmonyId = ModuleId + ".Harmony"`).
+  - Why: `Bannerlord.ModuleLoader.KeepWhatYouPickUp.dll` patches under the Harmony id `KeepWhatYouPickUp`; `UnpatchAll(ModInfo.HarmonyId)` in `SubModule.OnGameEnd` removed the loader's patches too, so the next save loaded in the same session got no `OnGameStart` (no behaviors, no patches, possible vanilla crash on the mod's saved objects).
+  - `SubModule.cs` unchanged: `PatchAll(typeof(SubModule).Assembly)` was already explicit since 1.5.7.0; `UnpatchAll` passes the own id.
+  - No other mod references the old id.
+  - Save-compat: none (Harmony ids are not saved).
+  - Test: Release build, load a save, a patched feature works (pickup blocked/kept); load it again without restarting, still works.
+
 ## KWYPU v1.5.7.0
 
 - Merged the unreleased 1.1.0 changes into this version (1.1.0 never shipped).
